@@ -1,0 +1,8 @@
+#ifndef ARDUINO_SECRETS_H
+#define ARDUINO_SECRETS_H
+
+#define SECRET_SSID "SAMSUNG"
+#define SECRET_PASS "kike12345"
+#define SECRET_DEVICE_API_KEY "c6c85d9c5e18377a9269e2c3cce82a7c"
+
+#endif
